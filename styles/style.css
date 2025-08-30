@@ -14,7 +14,7 @@
   min-inline-size: 320px;
   min-block-size: 100dvb;
   font-family: var(--font-main);
-  /*font-variation-settings: 'wght' var(--weight-text);*/
+  font-variation-settings: 'wght' var(--weight-text) var(--weight-title);
   background-image: var(--background-gradient);
   background-size: cover;
   background-attachment: fixed;
@@ -30,7 +30,7 @@
   justify-content: center;
   align-items: center;
   inline-size: var(--block-width);
-  height: clamp(327px, 30vw, 368px); 
+  height: clamp(327px, 30vw, 368px);
   margin-top: 100px;
   background-color: #fff;
   border: 2px solid #000;
@@ -38,11 +38,11 @@
 }
 
 .header__logo {
-  font-size: clamp(49px, 8vw, 65px); 
+  font-size: clamp(49px, 8vw, 65px);
   font-family: 'PressStart2P', fantasy;
   color: #000;
   text-transform: uppercase;
-  margin-bottom: clamp(10px, 3vh, 20px); 
+  margin-bottom: clamp(10px, 3vh, 20px);
 }
 
 .main {
