@@ -38,11 +38,11 @@
 }
 
 .header__logo {
-  font-size: clamp(49px, 8vw, 65px); 
+  font-size: clamp(49px, 8vw, 65px);
   font-family: 'PressStart2P', fantasy;
   color: #000;
   text-transform: uppercase;
-  margin-bottom: clamp(10px, 3vh, 20px); 
+  margin-bottom: clamp(10px, 3vh, 20px);
 }
 
 .main {
