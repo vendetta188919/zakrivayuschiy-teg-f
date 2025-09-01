@@ -226,9 +226,6 @@
   position: relative;
   z-index: 1;
   color: currentColor;
-}
-
-.save-button-icon {
   mix-blend-mode: difference;
 }
 
