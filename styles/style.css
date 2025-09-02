@@ -225,7 +225,7 @@
   height: 28px;
   position: relative;
   z-index: 1;
-  color: currentColor;
+  color: white;
   mix-blend-mode: difference;
 }
 
